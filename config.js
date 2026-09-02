@@ -86,7 +86,7 @@ const CONFIG = {
      Paste the Web App URL you get after deploying apps-script/Code.gs.
      It looks like: https://script.google.com/macros/s/AKfycb..../exec
      Until this is filled in, the form runs in DEMO mode (nothing is saved). */
-  rsvpEndpoint: "",
+  rsvpEndpoint: "https://script.google.com/macros/s/AKfycbxM3ARu8rTpaN8QH0V9c88fXJhzkTisQzA4fwthBqifs55Dghr3IvYknZ2_BKcXSnPPHA/exec",
 
   /* Refresh interval for the wishes wall, in milliseconds */
   wishesRefreshMs: 20000,
